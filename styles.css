@@ -1,0 +1,15 @@
+body {
+    font-family: 'Rubik';
+}
+
+.carousel_image {
+    height: 50%;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.navbar_image {
+    height: 10%;
+    width: 10%;
+    margin: 0 auto;
+}
